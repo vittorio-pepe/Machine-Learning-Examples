@@ -1,2 +1,2 @@
 # Northwestern_422
-422 Pratical machine Learning exercises
+422 Pratical Machine Learning Exercises
